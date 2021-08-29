@@ -1,0 +1,37 @@
+.main {
+    height: 300px;
+    position: relative;
+    &__canvas {
+            height: 200px;
+            width: 200px;
+            @include center-position;
+        &--c1 {
+            @include center-position;
+            z-index: 1;
+            width: 200px;
+            height: 200px;
+        }
+        &--c2 {
+            @include center-position;
+            z-index: 2
+        }
+        &--c3 {
+            @include center-position;
+            z-index: 3
+        }
+        &--c4 {
+            @include center-position;
+            z-index: 4
+        }
+        &--c5 {
+            @include center-position;
+            z-index: 5
+        }
+    }
+
+    &__button {
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
