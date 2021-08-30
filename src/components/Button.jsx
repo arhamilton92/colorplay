@@ -11,7 +11,7 @@ const Button = (props) => {
 	
 	return (
 		<Fragment>
-			<button className="main__button" onClick={handleClick}>BUTTON</button>
+			<button className="main__button btn" onClick={handleClick}>NEW DRAGON</button>
 		</Fragment>
 	);
 };

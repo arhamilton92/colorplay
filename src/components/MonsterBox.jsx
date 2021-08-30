@@ -10,7 +10,7 @@ const MonsterBox = () => {
         <Fragment>
             <div className="main">
             <Canvas setClick={setClick} click={click} />
-          </div>
+            </div>
             <Button click={setClick} />
         </Fragment>
     )
