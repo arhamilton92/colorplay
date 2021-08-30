@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/colorplay/static/css/main.d7a3c78d.chunk.css",
-    "main.js": "/colorplay/static/js/main.2b1a0f1d.chunk.js",
-    "main.js.map": "/colorplay/static/js/main.2b1a0f1d.chunk.js.map",
+    "main.css": "/colorplay/static/css/main.f167259f.chunk.css",
+    "main.js": "/colorplay/static/js/main.d03fcc03.chunk.js",
+    "main.js.map": "/colorplay/static/js/main.d03fcc03.chunk.js.map",
     "runtime-main.js": "/colorplay/static/js/runtime-main.bf5c323d.js",
     "runtime-main.js.map": "/colorplay/static/js/runtime-main.bf5c323d.js.map",
     "static/js/2.83b1c7cd.chunk.js": "/colorplay/static/js/2.83b1c7cd.chunk.js",
     "static/js/2.83b1c7cd.chunk.js.map": "/colorplay/static/js/2.83b1c7cd.chunk.js.map",
     "index.html": "/colorplay/index.html",
-    "static/css/main.d7a3c78d.chunk.css.map": "/colorplay/static/css/main.d7a3c78d.chunk.css.map",
+    "static/css/main.f167259f.chunk.css.map": "/colorplay/static/css/main.f167259f.chunk.css.map",
     "static/js/2.83b1c7cd.chunk.js.LICENSE.txt": "/colorplay/static/js/2.83b1c7cd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf5c323d.js",
     "static/js/2.83b1c7cd.chunk.js",
-    "static/css/main.d7a3c78d.chunk.css",
-    "static/js/main.2b1a0f1d.chunk.js"
+    "static/css/main.f167259f.chunk.css",
+    "static/js/main.d03fcc03.chunk.js"
   ]
 }
