@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/colorplay/static/css/main.76789ebf.chunk.css",
-    "main.js": "/colorplay/static/js/main.3b3cdb53.chunk.js",
-    "main.js.map": "/colorplay/static/js/main.3b3cdb53.chunk.js.map",
+    "main.js": "/colorplay/static/js/main.7af1f316.chunk.js",
+    "main.js.map": "/colorplay/static/js/main.7af1f316.chunk.js.map",
     "runtime-main.js": "/colorplay/static/js/runtime-main.bf5c323d.js",
     "runtime-main.js.map": "/colorplay/static/js/runtime-main.bf5c323d.js.map",
-    "static/js/2.2b9987d1.chunk.js": "/colorplay/static/js/2.2b9987d1.chunk.js",
-    "static/js/2.2b9987d1.chunk.js.map": "/colorplay/static/js/2.2b9987d1.chunk.js.map",
+    "static/js/2.b3491019.chunk.js": "/colorplay/static/js/2.b3491019.chunk.js",
+    "static/js/2.b3491019.chunk.js.map": "/colorplay/static/js/2.b3491019.chunk.js.map",
     "index.html": "/colorplay/index.html",
     "static/css/main.76789ebf.chunk.css.map": "/colorplay/static/css/main.76789ebf.chunk.css.map",
-    "static/js/2.2b9987d1.chunk.js.LICENSE.txt": "/colorplay/static/js/2.2b9987d1.chunk.js.LICENSE.txt"
+    "static/js/2.b3491019.chunk.js.LICENSE.txt": "/colorplay/static/js/2.b3491019.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf5c323d.js",
-    "static/js/2.2b9987d1.chunk.js",
+    "static/js/2.b3491019.chunk.js",
     "static/css/main.76789ebf.chunk.css",
-    "static/js/main.3b3cdb53.chunk.js"
+    "static/js/main.7af1f316.chunk.js"
   ]
 }
