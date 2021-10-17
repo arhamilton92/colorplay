@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/colorplay/static/css/main.76789ebf.chunk.css",
-    "main.js": "/colorplay/static/js/main.294c00b9.chunk.js",
-    "main.js.map": "/colorplay/static/js/main.294c00b9.chunk.js.map",
+    "main.css": "/colorplay/static/css/main.30e00589.chunk.css",
+    "main.js": "/colorplay/static/js/main.20f9c2e9.chunk.js",
+    "main.js.map": "/colorplay/static/js/main.20f9c2e9.chunk.js.map",
     "runtime-main.js": "/colorplay/static/js/runtime-main.bf5c323d.js",
     "runtime-main.js.map": "/colorplay/static/js/runtime-main.bf5c323d.js.map",
-    "static/js/2.d495a3b2.chunk.js": "/colorplay/static/js/2.d495a3b2.chunk.js",
-    "static/js/2.d495a3b2.chunk.js.map": "/colorplay/static/js/2.d495a3b2.chunk.js.map",
+    "static/js/2.ab0f740a.chunk.js": "/colorplay/static/js/2.ab0f740a.chunk.js",
+    "static/js/2.ab0f740a.chunk.js.map": "/colorplay/static/js/2.ab0f740a.chunk.js.map",
     "index.html": "/colorplay/index.html",
-    "static/css/main.76789ebf.chunk.css.map": "/colorplay/static/css/main.76789ebf.chunk.css.map",
-    "static/js/2.d495a3b2.chunk.js.LICENSE.txt": "/colorplay/static/js/2.d495a3b2.chunk.js.LICENSE.txt"
+    "static/css/main.30e00589.chunk.css.map": "/colorplay/static/css/main.30e00589.chunk.css.map",
+    "static/js/2.ab0f740a.chunk.js.LICENSE.txt": "/colorplay/static/js/2.ab0f740a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf5c323d.js",
-    "static/js/2.d495a3b2.chunk.js",
-    "static/css/main.76789ebf.chunk.css",
-    "static/js/main.294c00b9.chunk.js"
+    "static/js/2.ab0f740a.chunk.js",
+    "static/css/main.30e00589.chunk.css",
+    "static/js/main.20f9c2e9.chunk.js"
   ]
 }
